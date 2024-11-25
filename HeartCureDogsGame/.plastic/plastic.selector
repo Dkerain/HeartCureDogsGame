@@ -1,0 +1,4 @@
+repository "HeartCureDogsGame@tj_dkerain@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
